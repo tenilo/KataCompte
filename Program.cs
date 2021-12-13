@@ -80,7 +80,7 @@ namespace KataCompte
         }
         public void Affichage ()
         {
-            Console.WriteLine("*****************************************************************************************************************");
+            Console.WriteLine("****************************************************************************");
             Console.WriteLine("   Relevé de compte ");
             Console.WriteLine("Titulaire Mr : " + nom + " " + prenom);
             Console.WriteLine("Pays : " + pays + "     " + "Ville : " + ville);
@@ -103,7 +103,7 @@ namespace KataCompte
     {
         static void Affichage2 ()
         {
-            Console.WriteLine("************************************************************************************************************");
+            Console.WriteLine("****************************************************************************");
 
 
             Console.WriteLine("Voulez vous faire une nouvelle opération");
